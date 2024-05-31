@@ -1,0 +1,17 @@
+/home/fabio/Documentos/ExemploExplorando/bin/Debug/net8.0/ExemploExplorando
+/home/fabio/Documentos/ExemploExplorando/bin/Debug/net8.0/ExemploExplorando.deps.json
+/home/fabio/Documentos/ExemploExplorando/bin/Debug/net8.0/ExemploExplorando.runtimeconfig.json
+/home/fabio/Documentos/ExemploExplorando/bin/Debug/net8.0/ExemploExplorando.dll
+/home/fabio/Documentos/ExemploExplorando/bin/Debug/net8.0/ExemploExplorando.pdb
+/home/fabio/Documentos/ExemploExplorando/obj/Debug/net8.0/ExemploExplorando.GeneratedMSBuildEditorConfig.editorconfig
+/home/fabio/Documentos/ExemploExplorando/obj/Debug/net8.0/ExemploExplorando.AssemblyInfoInputs.cache
+/home/fabio/Documentos/ExemploExplorando/obj/Debug/net8.0/ExemploExplorando.AssemblyInfo.cs
+/home/fabio/Documentos/ExemploExplorando/obj/Debug/net8.0/ExemploExplorando.csproj.CoreCompileInputs.cache
+/home/fabio/Documentos/ExemploExplorando/obj/Debug/net8.0/ExemploExplorando.dll
+/home/fabio/Documentos/ExemploExplorando/obj/Debug/net8.0/refint/ExemploExplorando.dll
+/home/fabio/Documentos/ExemploExplorando/obj/Debug/net8.0/ExemploExplorando.pdb
+/home/fabio/Documentos/ExemploExplorando/obj/Debug/net8.0/ExemploExplorando.genruntimeconfig.cache
+/home/fabio/Documentos/ExemploExplorando/obj/Debug/net8.0/ref/ExemploExplorando.dll
+/home/fabio/Documentos/ExemploExplorando/bin/Debug/net8.0/Newtonsoft.Json.dll
+/home/fabio/Documentos/ExemploExplorando/obj/Debug/net8.0/ExemploExplorando.csproj.AssemblyReference.cache
+/home/fabio/Documentos/ExemploExplorando/obj/Debug/net8.0/ExemploExplorando.csproj.CopyComplete
